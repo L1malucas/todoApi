@@ -2,7 +2,7 @@
 
 ## TodoApi
 
-Este é um projeto simples, feito no vscode e utilizando o terminal, para exemplificar a criação de uma Web API utilizando o .NET. Este README contém os passos necessários para gerar e configurar a aplicação.
+Este é um projeto simples, feito no **vscode** e utilizando o terminal, para exemplificar a criação de uma Web API utilizando o .NET. Este README contém os passos necessários para gerar e configurar a aplicação.
 
 Este projeto foi criado seguindo as orientações do tutorial "[Criar uma Web API com ASP.NET Core](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio-code)" da Microsoft.
 
